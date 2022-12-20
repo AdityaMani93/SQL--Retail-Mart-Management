@@ -5,7 +5,9 @@ A data analyst of a retail shop, Happy Mart, wants to store the product details,
 
 Objective:
 The design of the database helps to easily evaluate and identify the performance of the shop to increase the daily sales.
+
 Task to be performed:
+
 Write a query to create a database named SQL basics.
 Write a query to select the database SQL basics.
 Write a query to create a product table with fields as product code, product name, price, stock and category, customer table with the fields as customer id, customer name, customer location, and customer phone number and, sales table with the fields as date, order number, product code, product name, quantity, and price.
